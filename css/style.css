@@ -52,8 +52,6 @@ a{
 .score-card{
     max-width: 735px;
     background-color: var(--White);
-    
-    box-shadow: 5px 30px 50px  hsl(241, 100%, 89%,0.4);
 }
 /*start result*/
 .result{
@@ -302,6 +300,9 @@ ul{
     }
     body{
         justify-content: center;
+    }
+    .score-card{
+        box-shadow: 5px 30px 50px  hsl(241, 100%, 89%,0.4);
     }
 }
 
