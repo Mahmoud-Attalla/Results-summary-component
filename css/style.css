@@ -38,7 +38,7 @@
 }
 body{
     font-family: var(--Hanken-Grotesk-font);
-    background-color: var(--Pale-blue);
+    background-color: var(--White);
     min-height: 960px;
     display: flex;
     justify-content: space-between;
@@ -52,6 +52,8 @@ a{
 .score-card{
     max-width: 735px;
     background-color: var(--White);
+    
+    box-shadow: 5px 30px 50px  hsl(241, 100%, 89%,0.4);
 }
 /*start result*/
 .result{
