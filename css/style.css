@@ -39,7 +39,7 @@
 body{
     font-family: var(--Hanken-Grotesk-font);
     background-color: var(--White);
-    min-height: 960px;
+    min-height: 100vh;
     display: flex;
     justify-content: space-between;
     align-items:center;
